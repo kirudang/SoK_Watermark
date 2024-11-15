@@ -1,5 +1,5 @@
 
-# SoK: Are Watermarks in LLMs Ready for Deployment?
+# SoK - Watermark
 
 ## Requirements
 To set up the environment for this project, it's recommended to create a dedicated environment and install the required packages listed in `requirements.txt`.
